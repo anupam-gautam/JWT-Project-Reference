@@ -1,0 +1,40 @@
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\JWT Project.exe
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\JWT Project.deps.json
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\JWT Project.runtimeconfig.json
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\JWT Project.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\JWT Project.pdb
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.AssemblyInfo.cs
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\staticwebassets\msbuild.JWT Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\staticwebassets\msbuild.build.JWT Project.props
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JWT Project.props
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JWT Project.props
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\scopedcss\bundle\JWT Project.styles.css
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.csproj.CopyComplete
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\refint\JWT Project.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.pdb
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\JWT Project.genruntimeconfig.cache
+C:\Users\admin\Desktop\JWT Project\JWT Project\obj\Debug\net6.0\ref\JWT Project.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\JWT Project\JWT Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
